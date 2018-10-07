@@ -1,0 +1,2442 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head><link rel="stylesheet" type="text/css" href="http://wahwahyar.com/wp-content/cache/minify/cb798.css" media="all" />
+
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="pingback" href="http://wahwahyar.com/xmlrpc.php" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	
+	<title>Homepage - Wah Wah Yar -</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://wahwahyar.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Homepage - Wah Wah Yar -" />
+<meta property="og:url" content="http://wahwahyar.com/" />
+<meta property="og:site_name" content="Wah Wah Yar -" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Homepage - Wah Wah Yar -" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/wahwahyar.com\/","name":"Wah Wah Yar -","potentialAction":{"@type":"SearchAction","target":"http:\/\/wahwahyar.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Wah Wah Yar - &raquo; Feed" href="http://wahwahyar.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wah Wah Yar - &raquo; Comments Feed" href="http://wahwahyar.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wahwahyar.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+<link rel='stylesheet' id='cheerup-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%2C900%7COpen+Sans%3A400%2C600%2C700%2C800' type='text/css' media='all' />
+
+
+
+
+<style id='cheerup-skin-inline-css' type='text/css'>
+.main-footer .bg-wrap:before { opacity: 1; }
+
+.main-footer .bg-wrap:before { background-image: url(https://cheerup.theme-sphere.com/bold/wp-content/uploads/sites/8/2017/07/footer-bg-1.png);background-repeat: no-repeat; background-position: center center; background-size: cover; }
+
+
+
+</style>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Sphere_Plugin = {"ajaxurl":"https:\/\/wahwahyar.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wahwahyar.com/wp-content/cache/minify/df983.js"></script>
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EGCF_Plugin = {"ajax_url":"https:\/\/wahwahyar.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wahwahyar.com/wp-content/cache/minify/68c05.js"></script>
+
+<link rel='https://api.w.org/' href='http://wahwahyar.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wahwahyar.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wahwahyar.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='http://wahwahyar.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://wahwahyar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwahwahyar.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://wahwahyar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwahwahyar.com%2F&#038;format=xml" />
+<script>
+		document.head.innerHTML += '<style id="egcf-disable-submit">input[type=submit], button[type=submit] { pointer-events: none; } form { cursor: progress !important; }</style>';
+		</script><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://wahwahyar.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+</head>
+
+<body class="home page-template page-template-page-blocks page-template-page-blocks-php page page-id-853  no-sidebar skin-magazine has-slider has-slider-grid-tall home-loop-1st-large wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+
+
+<div class="main-wrap">
+
+	
+		
+		
+<header id="main-head" class="main-head head-nav-below search-alt compact">
+
+	
+	<div class="top-bar dark top-bar-b cf">
+	
+		<div class="top-bar-content" data-sticky-bar="smart">
+			<div class="wrap cf">
+			
+			<span class="mobile-nav"><i class="fa fa-bars"></i></span>
+			
+						
+			<div class="posts-ticker">
+				<span class="heading">Breaking</span>
+
+				<ul>
+										
+										
+						<li><a href="http://wahwahyar.com/2018/07/08/hello-world/" title="Hello world!">Hello world!</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" title="3 Outfits That Will Amaze You on Coming Holiday">3 Outfits That Will Amaze You on Coming Holiday</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" title="Small Business Owners Are Full of Passion And Smiles">Small Business Owners Are Full of Passion And Smiles</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/14/i-love-my-hubby/" title="6 Best Tips for Building a Good Shipping Boat">6 Best Tips for Building a Good Shipping Boat</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/14/the-pastel-colors/" title="US President Address Calms The New Emerging Markets">US President Address Calms The New Emerging Markets</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/14/my-trip-to-las-vegas/" title="Mystery Investor Buys Building That  Hosts Albany Theater">Mystery Investor Buys Building That  Hosts Albany Theater</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/" title="This Man Knows How to Give an Interview">This Man Knows How to Give an Interview</a></li>
+					
+										
+						<li><a href="http://wahwahyar.com/2016/07/13/amazons-next-alexa-devices-will-intercom-capabilities/" title="Amazon&#8217;s Next Alexa Devices Will  Intercom Capabilities">Amazon&#8217;s Next Alexa Devices Will  Intercom Capabilities</a></li>
+					
+										
+									</ul>
+			</div>
+			
+						
+						
+			
+							
+			<div class="actions">
+				<div class="search-action cf">
+				
+					<form method="get" class="search-form" action="http://wahwahyar.com/">
+					
+						<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+						<input type="search" class="search-field" name="s" placeholder="Search" value="" required />
+						
+					</form>
+							
+				</div>
+			</div>
+			
+						
+			
+			
+	
+		<ul class="social-icons cf">
+		
+					
+			<li><a href="https://www.facebook.com/envato/" class="fa fa-facebook" target="_blank"><span class="visuallyhidden">Facebook</span></a></li>
+									
+					
+			<li><a href="https://twitter.com/envato" class="fa fa-twitter" target="_blank"><span class="visuallyhidden">Twitter</span></a></li>
+									
+					
+			<li><a href="https://plus.google.com/+envato" class="fa fa-google-plus" target="_blank"><span class="visuallyhidden">Google Plus</span></a></li>
+									
+					
+			<li><a href="https://www.instagram.com/envato/" class="fa fa-instagram" target="_blank"><span class="visuallyhidden">Instagram</span></a></li>
+									
+					
+			<li><a href="https://www.pinterest.com/envato/" class="fa fa-pinterest-p" target="_blank"><span class="visuallyhidden">Pinterest</span></a></li>
+									
+					
+			<li><a href="https://vimeo.com/envato" class="fa fa-vimeo" target="_blank"><span class="visuallyhidden">Vimeo</span></a></li>
+									
+					
+		</ul>
+	
+								
+			</div>			
+		</div>
+		
+	</div>
+
+	<div class="inner inner-head" data-sticky-bar="smart">	
+		<div class="wrap cf">
+		
+			<div class="title">
+			
+				<a href="http://wahwahyar.com/" title="Wah Wah Yar &#8211;" rel="home">
+				
+									
+										
+		<img class="mobile-logo" src="https://wahwahyar.com/wp-content/uploads/2017/03/5.jpg" width="960" height="640" 
+			alt="Wah Wah Yar &#8211;" />
+
+							
+					<img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/normal.png" class="logo-image" alt="Wah Wah Yar &#8211;" srcset="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/normal.png ,https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/2x.png 2x" />
+
+								
+				</a>
+			
+			</div>
+				
+				
+			<div class="navigation-wrap inline">
+								
+				<nav class="navigation inline light" data-sticky-bar="smart">
+					<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-1711" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1711"><a href="http://wahwahyar.com/">Home</a></li>
+<li id="menu-item-1709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1709"><a href="http://wahwahyar.com/about-shane/">About</a></li>
+<li id="menu-item-1710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1710"><a href="http://wahwahyar.com/contact-me/">Contact Us</a></li>
+		
+		<li class="nav-icons">
+						
+						
+			<a href="#" title="Search" class="search-link"><i class="fa fa-search"></i></a>
+			
+			<div class="search-box-overlay">
+				<form method="get" class="search-form" action="http://wahwahyar.com/">
+				
+					<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+					<input type="search" class="search-field" name="s" placeholder="Type and press enter" value="" required />
+							
+				</form>
+			</div>
+			
+					</li>
+		
+		</ul></div>				</nav>
+				
+							</div>
+			
+		</div>
+	</div>
+
+</header> <!-- .main-head -->
+
+
+<div class="widget-a-wrap">
+	<div class="the-wrap head">
+		<div class="show-lg"><img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/themela.jpg" alt="Ad" />
+</div>
+<div class="show-sm show-md"><img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-tablet.jpg" alt="Ad" />
+</div>
+<div class="show-xs show-ty"><img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-mobile.jpg" alt="Ad" />
+</div>	</div>
+</div>
+
+	
+		
+		
+	<section class="common-slider grid-b-slider">
+	
+		<div class="slides wrap" data-slider="grid" data-autoplay data-speed="8000" data-parallax="1">
+		
+					
+				<div class="item-wrap">
+				
+									
+					<div class="item item-large">
+						<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="image-link"><img width="554" height="466" src="https://wahwahyar.com/wp-content/uploads/2016/08/15-554x466.jpg" class="attachment-cheerup-slider-grid-b size-cheerup-slider-grid-b wp-post-image" alt="3 Outfits That Will Amaze You on Coming Holiday" title="" /></a>
+						
+						<div class="overlay">
+									
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel/" class="category">Lifestyle</a>
+
+		</span>
+		
+									
+								<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="heading">
+							
+				<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/">3 Outfits That Will Amaze You on Coming Holiday</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="date-link"><time class="post-date" datetime="2016-08-14T16:16:50+00:00">August 14, 2016</time></a>
+				
+	
+		
+	</div>								
+						</div>
+							
+					</div>
+								
+										
+									
+					<div class="item item-small">
+						<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/" class="image-link"><img width="306" height="466" src="https://wahwahyar.com/wp-content/uploads/2016/05/6-306x466.jpg" class="attachment-cheerup-slider-grid-b-sm size-cheerup-slider-grid-b-sm wp-post-image" alt="This Man Knows How to Give an Interview" title="" /></a>
+						
+						<div class="overlay">
+									
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/beauty/" class="category">Business</a>
+
+		</span>
+		
+									
+								<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="heading">
+							
+				<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/">This Man Knows How to Give an Interview</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/" class="date-link"><time class="post-date" datetime="2016-07-14T15:43:48+00:00">July 14, 2016</time></a>
+				
+	
+		
+	</div>								
+						</div>
+							
+					</div>
+								
+										
+									
+					<div class="item item-small">
+						<a href="http://wahwahyar.com/2016/05/14/my-loving-partner-2/" class="image-link"><img width="306" height="466" src="https://wahwahyar.com/wp-content/uploads/2016/05/1-1-306x466.jpg" class="attachment-cheerup-slider-grid-b-sm size-cheerup-slider-grid-b-sm wp-post-image" alt="The Only Trend Emily Cares For is Getting Fit" title="" /></a>
+						
+						<div class="overlay">
+									
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/fashion/" class="category">Culture</a>
+
+		</span>
+		
+									
+								<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="heading">
+							
+				<a href="http://wahwahyar.com/2016/05/14/my-loving-partner-2/">The Only Trend Emily Cares For is Getting Fit</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/14/my-loving-partner-2/" class="date-link"><time class="post-date" datetime="2016-05-14T16:16:50+00:00">May 14, 2016</time></a>
+				
+	
+		
+	</div>								
+						</div>
+							
+					</div>
+								
+										
+				</div>
+				
+					</div>
+
+	</section>
+	
+	
+<div class="main wrap">
+
+	
+	
+
+		
+
+	
+	<div class="ts-row cf">
+		<div class="col-8 main-content cf">
+		
+		
+		<div id="post-853" data-id="853" class="the-post the-page page-content">
+
+					
+			<div class="ts-row blocks cf wpb_row"><div class="wpb_column vc_column_container vc_col-sm-12 col-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<section class="cf block blog" data-id="1">
+	
+		
+					
+			<div class="block-head-b">
+				<h4 class="title"><a href="http://wahwahyar.com/category/travel-2/">Travel</a></h4>
+									
+								
+									<a href="http://wahwahyar.com/category/travel-2/" class="view-all">View All</a>
+							
+			</div>	
+			
+		
+				
+				
+		<div class="block-content">
+		
+	<div class="posts-dynamic posts-container ts-row grid count-0 masonry">
+			
+					
+						
+							
+								
+				<div class="posts-wrap">				
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-356" class="grid-post post-356 post type-post status-publish format-standard has-post-thumbnail category-travel-2 tag-beauty tag-fashion tag-lifestyle has-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/05/14/waiting-for-friend/" class="image-link">
+			
+				<img width="683" height="1024" src="https://wahwahyar.com/wp-content/uploads/2016/05/23-683x1024.jpg" class="attachment-large size-large wp-post-image" alt="" title="Amazing Things You May Have Missed Growing up" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/23-683x1024.jpg 683w, https://wahwahyar.com/wp-content/uploads/2016/05/23-200x300.jpg 200w, https://wahwahyar.com/wp-content/uploads/2016/05/23-768x1152.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/23.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel-2/" class="category">Travel</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/05/14/waiting-for-friend/">Amazing Things You May Have Missed Growing up</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/14/waiting-for-friend/" class="date-link"><time class="post-date" datetime="2016-05-14T13:09:16+00:00">May 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		<div class="post-content post-excerpt cf">
+		<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily rigorous&hellip;</p>
+			
+	</div><!-- .post-content -->
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-374" class="grid-post post-374 post type-post status-publish format-standard has-post-thumbnail category-travel-2 tag-diy tag-fashion tag-featured has-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/05/14/on-windy-mornings/" class="image-link">
+			
+				<img width="1024" height="681" src="https://wahwahyar.com/wp-content/uploads/2017/03/22-1024x681.jpg" class="attachment-large size-large wp-post-image" alt="" title="Epic Ride: Family Backpacking in Costa Rica" srcset="https://wahwahyar.com/wp-content/uploads/2017/03/22-1024x681.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2017/03/22-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2017/03/22-768x511.jpg 768w, https://wahwahyar.com/wp-content/uploads/2017/03/22-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2017/03/22-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2017/03/22-110x73.jpg 110w" sizes="(max-width: 1024px) 100vw, 1024px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel-2/" class="category">Travel</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/05/14/on-windy-mornings/">Epic Ride: Family Backpacking in Costa Rica</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/14/on-windy-mornings/" class="date-link"><time class="post-date" datetime="2016-05-14T13:08:10+00:00">May 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		<div class="post-content post-excerpt cf">
+		<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily rigorous&hellip;</p>
+			
+	</div><!-- .post-content -->
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-376" class="grid-post post-376 post type-post status-publish format-standard has-post-thumbnail category-travel-2 tag-diy tag-fashion tag-featured has-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/05/14/eyes-still-sleepy/" class="image-link">
+			
+				<img width="1024" height="576" src="https://wahwahyar.com/wp-content/uploads/2017/03/20-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" title="Buildings Light up as The Night Approaches" srcset="https://wahwahyar.com/wp-content/uploads/2017/03/20-1024x576.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2017/03/20-300x169.jpg 300w, https://wahwahyar.com/wp-content/uploads/2017/03/20-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel-2/" class="category">Travel</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/05/14/eyes-still-sleepy/">Buildings Light up as The Night Approaches</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/14/eyes-still-sleepy/" class="date-link"><time class="post-date" datetime="2016-05-14T13:07:17+00:00">May 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		<div class="post-content post-excerpt cf">
+		<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily rigorous&hellip;</p>
+			
+	</div><!-- .post-content -->
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+				
+		</div>
+	</div>
+	
+	
+			</div>
+	
+	</section>
+
+</div></div></div></div><div class="ts-row blocks cf wpb_row"><div class="wpb_column vc_column_container vc_col-sm-12 col-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="block">
+	
+		<div class="widget widget-a-wrap">
+						
+			<div class="the-wrap">
+				<div class="show-lg"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/themela.jpg" alt="Ad" />
+</div>
+<div class="show-sm show-md"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-tablet.jpg" alt="Ad" />
+</div>
+<div class="show-xs show-ty"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-mobile.jpg" alt="Ad" />
+</div>			</div>
+
+		
+		</div>		
+		</div>
+
+</div></div></div></div><div class="ts-row blocks cf wpb_row"><div class="wpb_column vc_column_container vc_col-sm-8 col-8"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="ts-row blocks cf wpb_row vc_inner"><div class="wpb_column vc_column_container vc_col-sm-6 col-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<section class="cf block highlights-block" data-id="2">
+	
+	
+					
+			<div class="block-head-b">
+				<h4 class="title"><a href="http://wahwahyar.com/category/lifestyle/">Technology</a></h4>
+									
+								
+									<a href="http://wahwahyar.com/category/lifestyle/" class="view-all">View All</a>
+							
+			</div>	
+			
+		
+				
+			
+	<div class="block-content">
+		<div class="large cf">
+			
+				
+			<article class="grid-post post-1656 post type-post status-publish format-standard has-post-thumbnail category-lifestyle tag-lifestyle tag-outfits">
+					
+				<div class="post-header">
+					<div class="post-thumb">
+						<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table-2/" class="image-link">
+							<img width="370" height="247" src="https://wahwahyar.com/wp-content/uploads/2016/05/11-2-370x247.jpg" class="attachment-cheerup-grid size-cheerup-grid wp-post-image" alt="" title="Nature’s Way of Giving Back" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/11-2-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/11-2-110x73.jpg 110w" sizes="(max-width: 370px) 100vw, 370px" />						</a>
+						
+								
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/lifestyle/" class="category">Technology</a>
+
+		</span>
+		
+							</div>
+					
+					
+					<div class="meta-title">
+							<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table-2/">Nature’s Way of Giving Back</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table-2/" class="date-link"><time class="post-date" datetime="2016-05-14T21:58:54+00:00">May 14, 2016</time></a>
+				
+	
+		
+	</div>					</div>
+				</div>
+				
+				<div class="post-content post-excerpt cf">
+				<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily rigorous&hellip;</p>
+				</div><!-- .post-content -->
+	
+			</article>
+
+		
+						
+		</div>
+
+
+		<div class="posts-list">
+		
+		
+			<article class="small-post cf">
+				<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/11-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Luxury Watches Deal Builds on New York Shell Pile" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/11-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/11-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/11-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/11-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/11-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/11-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/11-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+				</a>
+				
+				<div class="content">
+					
+					<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table/" class="post-title">Luxury Watches Deal Builds on New York Shell Pile</a>
+					
+						<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/plant-at-my-table/" class="date-link"><time class="post-date" datetime="2016-05-14T21:58:54+00:00">May 14, 2016</time></a>
+				
+		
+	</div>					
+				</div>
+			</article>
+		
+		
+			<article class="small-post cf">
+				<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/12-2-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="A Living Room That is Fit For The Millenials" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/12-2-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+				</a>
+				
+				<div class="content">
+					
+					<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="post-title">A Living Room That is Fit For The Millenials</a>
+					
+						<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="date-link"><time class="post-date" datetime="2016-05-14T20:47:09+00:00">May 14, 2016</time></a>
+				
+		
+	</div>					
+				</div>
+			</article>
+		
+		
+		</div>
+	
+	</div> <!-- .block-content -->
+	
+</section>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 col-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<section class="cf block highlights-block" data-id="3">
+	
+		
+	<div class="block-content">
+		<div class="large cf">
+			
+				
+			<article class="grid-post post-1 post type-post status-publish format-standard category-uncategorized">
+					
+				<div class="post-header">
+					<div class="post-thumb">
+						<a href="http://wahwahyar.com/2018/07/08/hello-world/" class="image-link">
+													</a>
+						
+								
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/uncategorized/" class="category">Uncategorized</a>
+
+		</span>
+		
+							</div>
+					
+					
+					<div class="meta-title">
+							<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2018/07/08/hello-world/">Hello world!</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2018/07/08/hello-world/" class="date-link"><time class="post-date" datetime="2018-07-08T12:59:20+00:00">July 8, 2018</time></a>
+				
+	
+		
+	</div>					</div>
+				</div>
+				
+				<div class="post-content post-excerpt cf">
+				<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+				</div><!-- .post-content -->
+	
+			</article>
+
+		
+						
+		</div>
+
+
+		<div class="posts-list">
+		
+		
+			<article class="small-post cf">
+				<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/08/15-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="3 Outfits That Will Amaze You on Coming Holiday" srcset="https://wahwahyar.com/wp-content/uploads/2016/08/15-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/08/15-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/08/15-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/08/15-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/08/15-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/08/15-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/08/15-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+				</a>
+				
+				<div class="content">
+					
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="post-title">3 Outfits That Will Amaze You on Coming Holiday</a>
+					
+						<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="date-link"><time class="post-date" datetime="2016-08-14T16:16:50+00:00">August 14, 2016</time></a>
+				
+		
+	</div>					
+				</div>
+			</article>
+		
+		
+			<article class="small-post cf">
+				<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/8-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Small Business Owners Are Full of Passion And Smiles" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/8-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/8-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/8-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/8-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/8-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/8-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+				</a>
+				
+				<div class="content">
+					
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="post-title">Small Business Owners Are Full of Passion And Smiles</a>
+					
+						<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="date-link"><time class="post-date" datetime="2016-07-15T02:37:36+00:00">July 15, 2016</time></a>
+				
+		
+	</div>					
+				</div>
+			</article>
+		
+		
+		</div>
+	
+	</div> <!-- .block-content -->
+	
+</section>
+	
+</div></div></div></div>
+<section class="cf block news-block" data-id="4">
+	
+	
+					
+			<div class="block-head-b">
+				<h4 class="title"><a href="http://wahwahyar.com/category/travel/">Lifestyle</a></h4>
+									
+								
+									<a href="http://wahwahyar.com/category/travel/" class="view-all">View All</a>
+							
+			</div>	
+			
+		
+				
+			
+	<div class="block-content ts-row">
+		<div class="col-6 large cf">
+			
+				
+			<article class="grid-post post-1548 post type-post status-publish format-standard has-post-thumbnail category-travel tag-beauty tag-fashion tag-lifestyle">
+					
+				<div class="post-header">
+					<div class="post-thumb">
+						<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/" class="image-link">
+							<img width="370" height="247" src="https://wahwahyar.com/wp-content/uploads/2017/03/22-370x247.jpg" class="attachment-cheerup-grid size-cheerup-grid wp-post-image" alt="" title="Vast Farm Lands Still Rule Most of The Rural Countryside" srcset="https://wahwahyar.com/wp-content/uploads/2017/03/22-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2017/03/22-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2017/03/22-768x511.jpg 768w, https://wahwahyar.com/wp-content/uploads/2017/03/22-1024x681.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2017/03/22-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2017/03/22-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2017/03/22-110x73.jpg 110w" sizes="(max-width: 370px) 100vw, 370px" />						</a>
+						
+								
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel/" class="category">Lifestyle</a>
+
+		</span>
+		
+							</div>
+					
+					
+					<div class="meta-title">
+							<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/">Vast Farm Lands Still Rule Most of The Rural Countryside</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/" class="date-link"><time class="post-date" datetime="2016-05-15T02:24:46+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>					</div>
+				</div>
+				
+				<div class="post-content post-excerpt cf">
+				<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily rigorous&hellip;</p>
+				</div><!-- .post-content -->
+	
+			</article>
+
+		
+						
+		</div>
+
+
+		<div class="col-6 posts-list">
+		
+			<div class="ts-row">
+			
+				
+				<article class="col-6 small-post cf">
+					<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too-2/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/8-1-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Clean And Colorful is in Vogue" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/8-1-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+					</a>
+					
+					<div class="content">
+						
+						<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too-2/" class="post-title">Clean And Colorful is in Vogue</a>
+						
+							<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too-2/" class="date-link"><time class="post-date" datetime="2016-05-15T02:24:46+00:00">May 15, 2016</time></a>
+				
+		
+	</div>						
+					</div>
+				</article>
+			
+				
+				<article class="col-6 small-post cf">
+					<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/12-2-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="A Living Room That is Fit For The Millenials" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/12-2-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/12-2-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+					</a>
+					
+					<div class="content">
+						
+						<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="post-title">A Living Room That is Fit For The Millenials</a>
+						
+							<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/the-pastel-colors-2/" class="date-link"><time class="post-date" datetime="2016-05-14T20:47:09+00:00">May 14, 2016</time></a>
+				
+		
+	</div>						
+					</div>
+				</article>
+			
+				
+				<article class="col-6 small-post cf">
+					<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake-2/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/11-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="A Serene Place For Deep Thinkers" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/11-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/11-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/11-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/11-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/11-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/11-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/11-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+					</a>
+					
+					<div class="content">
+						
+						<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake-2/" class="post-title">A Serene Place For Deep Thinkers</a>
+						
+							<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake-2/" class="date-link"><time class="post-date" datetime="2016-05-14T19:50:28+00:00">May 14, 2016</time></a>
+				
+		
+	</div>						
+					</div>
+				</article>
+			
+				
+				<article class="col-6 small-post cf">
+					<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake/" class="image-link"><img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/25-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Everything You Need to  Know About New Room  Rituals" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/25-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/25-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/25-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/25-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/25-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/25-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/25-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />				
+					</a>
+					
+					<div class="content">
+						
+						<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake/" class="post-title">Everything You Need to  Know About New Room  Rituals</a>
+						
+							<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/relax-by-the-lake/" class="date-link"><time class="post-date" datetime="2016-05-14T19:50:28+00:00">May 14, 2016</time></a>
+				
+		
+	</div>						
+					</div>
+				</article>
+			
+			
+			</div>
+		</div>
+	
+	</div> <!-- .block-content -->
+	
+</section>
+	
+
+	<section class="cf block blog" data-id="5">
+	
+		
+					
+			<div class="block-head-b">
+				<h4 class="title"><a href="http://wahwahyar.com/category/fashion/">Culture</a></h4>
+									
+								
+									<a href="http://wahwahyar.com/category/fashion/" class="view-all">View All</a>
+							
+			</div>	
+			
+		
+				
+				
+		<div class="block-content">
+		
+	<div class="posts-dynamic posts-container ts-row list count-0">
+			
+					
+						
+							
+								
+				<div class="posts-wrap">				
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-32" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/24-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="The Ash Wednesday Selfie Trend Has Patriots  Debating" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/24-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/24-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/24-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/24-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/24-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/24-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/24-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants/">The Ash Wednesday Selfie Trend Has Patriots  Debating</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants/" class="date-link"><time class="post-date" datetime="2016-05-15T04:38:11+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-1680" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants-2/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/30-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="A Look Inside The Work Abode" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/30-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/30-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/30-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/30-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants-2/">A Look Inside The Work Abode</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/my-new-yoga-pants-2/" class="date-link"><time class="post-date" datetime="2016-05-15T04:38:11+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-1679" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk-2/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/17-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="Newly Wed And Blissful Start of New Life" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/17-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/17-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/17-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/17-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/17-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/17-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/17-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk-2/">Newly Wed And Blissful Start of New Life</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk-2/" class="date-link"><time class="post-date" datetime="2016-05-15T04:30:35+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-23" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/25-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="Cashing Out: 3 Tips for Valuing &#038; Preparing  Your Business for Sale" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/25-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/25-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/25-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/25-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/25-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/25-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/25-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk/">Cashing Out: 3 Tips for Valuing &#038; Preparing  Your Business for Sale</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/taking-a-short-walk/" class="date-link"><time class="post-date" datetime="2016-05-15T04:30:35+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-1676" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/hello-world-3/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/9-1-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="Simple Acts of Kindness to Make You Happy" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/9-1-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/9-1-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/hello-world-3/">Simple Acts of Kindness to Make You Happy</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/hello-world-3/" class="date-link"><time class="post-date" datetime="2016-05-15T01:31:01+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-12">
+						
+<article id="post-1547" class="list-post">
+	
+	<div class="post-thumb">
+		<a href="http://wahwahyar.com/2016/05/15/hello-world-2/" class="image-link">
+			
+			<img width="270" height="180" src="https://wahwahyar.com/wp-content/uploads/2016/05/26-270x180.jpg" class="attachment-cheerup-list size-cheerup-list wp-post-image" alt="" title="The Interior Photos That Will Make You Green With Envy" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/26-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/26-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/26-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/26-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/26-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/26-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/26-110x73.jpg 110w" sizes="(max-width: 270px) 100vw, 270px" />			
+			
+		</a>
+		
+			</div>
+
+
+	<div class="content">
+	
+			<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title">
+							
+				<a href="http://wahwahyar.com/2016/05/15/hello-world-2/">The Interior Photos That Will Make You Green With Envy</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/05/15/hello-world-2/" class="date-link"><time class="post-date" datetime="2016-05-15T01:31:01+00:00">May 15, 2016</time></a>
+				
+	
+		
+	</div>		
+				
+		<div class="post-content post-excerpt cf">
+					
+			<p>More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud mightily&hellip;</p>
+				
+		</div>
+		
+		
+			
+				
+	</div> <!-- .content -->
+
+	
+		
+</article>					</div>
+					
+									
+						
+				
+		</div>
+	</div>
+	
+	
+			</div>
+	
+	</section>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 col-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="sidebar wpb_content_element sticky-col">
+		<div class="wpb_wrapper">
+			
+			<ul><li id="search-2" class="widget widget_search">	<form method="get" class="search-form" action="http://wahwahyar.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Type and hit enter..." value="" name="s" title="Search for:" />
+		</label>
+		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+	</form></li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h5 class="widget-title">Recent Posts</h5>		<ul>
+											<li>
+					<a href="http://wahwahyar.com/2018/07/08/hello-world/">Hello world!</a>
+									</li>
+											<li>
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/">3 Outfits That Will Amaze You on Coming Holiday</a>
+									</li>
+											<li>
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/">Small Business Owners Are Full of Passion And Smiles</a>
+									</li>
+											<li>
+					<a href="http://wahwahyar.com/2016/07/14/i-love-my-hubby/">6 Best Tips for Building a Good Shipping Boat</a>
+									</li>
+											<li>
+					<a href="http://wahwahyar.com/2016/07/14/the-pastel-colors/">US President Address Calms The New Emerging Markets</a>
+									</li>
+					</ul>
+		</li>
+<li id="bunyad-social-3" class="widget widget-social-b"><h5 class="widget-title">Follow us</h5>		
+		<ul class="social-follow cf" itemscope itemtype="http://schema.org/Organization">
+			<link itemprop="url" href="http://wahwahyar.com/">
+						
+				<li class="service">
+
+					<a href="https://facebook.com/" class="service-link facebook cf" target="_blank" itemprop="sameAs">
+						<i class="the-icon fa fa-facebook"></i>
+						
+												
+						<span class="label">Facebook</span>
+					</a>
+
+				</li>
+			
+						
+				<li class="service">
+
+					<a href="https://pinterest.com/" class="service-link pinterest cf" target="_blank" itemprop="sameAs">
+						<i class="the-icon fa fa-pinterest-p"></i>
+						
+												
+						<span class="label">Pinterest</span>
+					</a>
+
+				</li>
+			
+						
+				<li class="service">
+
+					<a href="https://twitter.com/" class="service-link twitter cf" target="_blank" itemprop="sameAs">
+						<i class="the-icon fa fa-twitter"></i>
+						
+												
+						<span class="label">Twitter</span>
+					</a>
+
+				</li>
+			
+						
+				<li class="service">
+
+					<a href="https://instagram.com/" class="service-link instagram cf" target="_blank" itemprop="sameAs">
+						<i class="the-icon fa fa-instagram"></i>
+						
+												
+						<span class="label">Instagram</span>
+					</a>
+
+				</li>
+			
+					</ul>
+		
+		</li>
+
+		<li id="bunyad-widget-subscribe-3" class="widget widget-subscribe">
+							
+				<h5 class="widget-title">Your daily updates</h5>				
+						
+			<form method="post" action="//exocrew.us2.list-manage.com/subscribe/post?u=80cb35f637e636563aeaa0499&#038;id=73f12ac782" class="form" target="_blank">
+				<div class="fields">
+					<p class="message">
+						Subscribe now. We’ll make sure you never miss a thing					</p>
+					
+					<p>
+						<input type="email" name="EMAIL" placeholder="Your email address.." required>
+					</p>
+					
+					<p>
+						<input type="submit" value="Subscribe">
+					</p>
+				</div>
+			</form>
+
+		
+		</li>
+		
+		
+		<li id="bunyad-widget-ads-3" class="widget widget-a-wrap">
+						
+			<div class="the-wrap">
+				<img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/tema.jpg" />			</div>
+
+		
+		</li>
+		
+		
+		<li id="bunyad-widget-about-3" class="widget widget-about">		
+							
+				<h5 class="widget-title">About</h5>				
+					
+							
+				<div class="author-image">
+					<img src="https://cheerup.theme-sphere.com/bold/wp-content/uploads/sites/8/2017/07/about-side.jpg" alt="About Me" />
+				</div>
+				
+						
+			<div class="text about-text"><p>I'm Shane, a girly girl and lover of life. Join me on the journey to find latest in fashion.</p>
+</div>
+			
+						
+			<div class="about-footer cf">
+			
+									<a href="https://cheerup.theme-sphere.com/bold/about-shane/" class="more">Read More</a>
+								
+			</div>
+			
+						
+			
+						
+			
+					
+		</li>
+		
+		<li id="categories-5" class="widget widget_categories"><h5 class="widget-title">Categories</h5>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://wahwahyar.com/category/beauty/" >Business</a> (16)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://wahwahyar.com/category/fashion/" >Culture</a> (25)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://wahwahyar.com/category/travel/" >Lifestyle</a> (16)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://wahwahyar.com/category/lifestyle/" >Technology</a> (18)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://wahwahyar.com/category/travel-2/" >Travel</a> (8)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://wahwahyar.com/category/uncategorized/" >Uncategorized</a> (1)
+</li>
+		</ul>
+</li></ul>
+		</div>
+	</div>
+</div></div></div></div><div class="ts-row blocks cf wpb_row"><div class="wpb_column vc_column_container vc_col-sm-12 col-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="block">
+	
+		<div class="widget widget-a-wrap">
+						
+			<div class="the-wrap">
+				<div class="show-lg"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/themela.jpg" alt="Ad" />
+</div>
+<div class="show-sm show-md"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-tablet.jpg" alt="Ad" />
+</div>
+<div class="show-xs show-ty"><img src="http://cheerup.tsdev.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/respla-mobile.jpg" alt="Ad" />
+</div>			</div>
+
+		
+		</div>		
+		</div>
+
+</div></div></div></div><div class="ts-row blocks cf wpb_row"><div class="wpb_column vc_column_container vc_col-sm-12 col-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<section class="cf block loop-grid-3" data-id="6">
+	
+		
+					
+			<div class="block-head-b">
+				<h4 class="title">Latest</h4>
+									
+								
+									<a href="" class="view-all">View All</a>
+							
+			</div>	
+			
+		
+				
+				
+		<div class="block-content">
+		
+	<div class="posts-dynamic posts-container ts-row grid count-0 masonry">
+			
+					
+						
+							
+								
+				<div class="posts-wrap">				
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-87" class="grid-post post-87 post type-post status-publish format-standard has-post-thumbnail category-travel tag-fashion tag-photography tag-slider no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="image-link">
+			
+				<img width="1024" height="683" src="https://wahwahyar.com/wp-content/uploads/2016/08/15-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" title="3 Outfits That Will Amaze You on Coming Holiday" srcset="https://wahwahyar.com/wp-content/uploads/2016/08/15-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/08/15-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/08/15-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/08/15-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/08/15-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/08/15-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/08/15-110x73.jpg 110w" sizes="(max-width: 1024px) 100vw, 1024px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/travel/" class="category">Lifestyle</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/">3 Outfits That Will Amaze You on Coming Holiday</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="date-link"><time class="post-date" datetime="2016-08-14T16:16:50+00:00">August 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-1549" class="grid-post post-1549 post type-post status-publish format-standard has-post-thumbnail category-beauty tag-beauty tag-fashion tag-lifestyle no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="image-link">
+			
+				<img width="1024" height="683" src="https://wahwahyar.com/wp-content/uploads/2016/05/8-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" title="Small Business Owners Are Full of Passion And Smiles" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/8-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/8-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/8-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/8-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/8-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/8-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/8-110x73.jpg 110w" sizes="(max-width: 1024px) 100vw, 1024px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/beauty/" class="category">Business</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/">Small Business Owners Are Full of Passion And Smiles</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="date-link"><time class="post-date" datetime="2016-07-15T02:37:36+00:00">July 15, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-157" class="grid-post post-157 post type-post status-publish format-standard has-post-thumbnail category-beauty tag-fashion tag-lifestyle no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/07/14/i-love-my-hubby/" class="image-link">
+			
+				<img width="1024" height="683" src="https://wahwahyar.com/wp-content/uploads/2016/05/9-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" title="6 Best Tips for Building a Good Shipping Boat" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/9-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/9-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/9-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/9-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/9-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/9-370x247.jpg 370w, https://wahwahyar.com/wp-content/uploads/2016/05/9-110x73.jpg 110w" sizes="(max-width: 1024px) 100vw, 1024px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/beauty/" class="category">Business</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/07/14/i-love-my-hubby/">6 Best Tips for Building a Good Shipping Boat</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/14/i-love-my-hubby/" class="date-link"><time class="post-date" datetime="2016-07-14T20:48:11+00:00">July 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-239" class="grid-post post-239 post type-post status-publish format-standard has-post-thumbnail category-beauty tag-beauty tag-fashion tag-lifestyle no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/07/14/the-pastel-colors/" class="image-link">
+			
+				<img width="684" height="1024" src="https://wahwahyar.com/wp-content/uploads/2016/05/10-684x1024.jpg" class="attachment-large size-large wp-post-image" alt="" title="US President Address Calms The New Emerging Markets" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/10-684x1024.jpg 684w, https://wahwahyar.com/wp-content/uploads/2016/05/10-200x300.jpg 200w, https://wahwahyar.com/wp-content/uploads/2016/05/10-768x1151.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/10.jpg 1068w" sizes="(max-width: 684px) 100vw, 684px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf"></span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/07/14/the-pastel-colors/">US President Address Calms The New Emerging Markets</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/14/the-pastel-colors/" class="date-link"><time class="post-date" datetime="2016-07-14T20:47:09+00:00">July 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-80" class="grid-post post-80 post type-post status-publish format-standard has-post-thumbnail category-beauty tag-fashion tag-featured tag-travel no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/07/14/my-trip-to-las-vegas/" class="image-link">
+			
+				<img width="683" height="1024" src="https://wahwahyar.com/wp-content/uploads/2016/05/30-683x1024.jpg" class="attachment-large size-large wp-post-image" alt="" title="Mystery Investor Buys Building That  Hosts Albany Theater" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/30-683x1024.jpg 683w, https://wahwahyar.com/wp-content/uploads/2016/05/30-200x300.jpg 200w, https://wahwahyar.com/wp-content/uploads/2016/05/30-768x1152.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/30.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/beauty/" class="category">Business</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/07/14/my-trip-to-las-vegas/">Mystery Investor Buys Building That  Hosts Albany Theater</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/14/my-trip-to-las-vegas/" class="date-link"><time class="post-date" datetime="2016-07-14T18:53:12+00:00">July 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+					
+						
+						
+								
+					<div class="col-4">	
+						
+<article id="post-90" class="grid-post post-90 post type-post status-publish format-standard has-post-thumbnail category-beauty tag-beauty tag-featured tag-slider no-excerpt">
+	
+	<div class="post-header cf">
+			
+		<div class="post-thumb">
+			<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/" class="image-link">
+			
+				<img width="683" height="1024" src="https://wahwahyar.com/wp-content/uploads/2016/05/6-683x1024.jpg" class="attachment-large size-large wp-post-image" alt="" title="This Man Knows How to Give an Interview" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/6-683x1024.jpg 683w, https://wahwahyar.com/wp-content/uploads/2016/05/6-200x300.jpg 200w, https://wahwahyar.com/wp-content/uploads/2016/05/6-768x1152.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/6.jpg 1067w" sizes="(max-width: 683px) 100vw, 683px" />					
+				
+			</a>
+			
+					
+		<span class="cat-label cf">					
+		<a href="http://wahwahyar.com/category/beauty/" class="category">Business</a>
+
+		</span>
+		
+				</div>
+		
+		<div class="meta-title">
+		
+				<div class="post-meta post-meta-c">
+		
+		
+		
+					
+			
+			<h2 class="post-title-alt">
+							
+				<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/">This Man Knows How to Give an Interview</a>
+					
+							</h2>
+			
+				
+		
+				
+			<span class="post-author"><span class="by">By</span> <a href="http://wahwahyar.com/author/parvej/" title="Posts by parvej" rel="author">parvej</a></span>
+			<span class="meta-sep"></span>
+			
+				
+		
+					<a href="http://wahwahyar.com/2016/07/14/got-new-shoes-from-asos/" class="date-link"><time class="post-date" datetime="2016-07-14T15:43:48+00:00">July 14, 2016</time></a>
+				
+	
+		
+	</div>		
+		</div>
+		
+	</div><!-- .post-header -->
+
+		
+		
+		
+</article>
+					</div>
+					
+									
+						
+				
+		</div>
+	</div>
+	
+	
+	
+
+	
+		
+	<div class="main-pagination load-more">
+		<a href="http://wahwahyar.com/page/2/" class="load-button" data-page="1">
+			Load More <i class="fa fa-repeat"></i>
+		</a>
+	</div>	
+	
+	
+
+		</div>
+	
+	</section>
+
+</div></div></div></div>
+				
+		</div>
+	
+		
+		</div>
+		
+				
+	</div> <!-- .ts-row -->
+</div> <!-- .main -->
+
+
+	
+	
+	<footer class="main-footer dark classic">
+	
+		
+				
+		<section class="mid-footer cf">
+			<ul class="instagram-pics instagram-size-thumbnail"><li class=""><a href="//instagram.com/p/BojmOEWhUTk/" target="_blank"  class=""><img src="//instagram.fblr1-4.fna.fbcdn.net/vp/1210444eeb71213c227061c272db5737/5C5B9949/t51.2885-15/e35/s150x150/42683003_707293516305071_5072370472039907003_n.jpg"  alt="(वाह वाह यार) Follow @wahwahyar and Read more latest and unique #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader" title="(वाह वाह यार) Follow @wahwahyar and Read more latest and unique #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader"  class=""/></a></li><li class=""><a href="//instagram.com/p/BohIw8QhfZA/" target="_blank"  class=""><img src="//instagram.fblr1-4.fna.fbcdn.net/vp/6a3c8be5b74c96058735fbf4a9590618/5C5498CF/t51.2885-15/e35/s150x150/42002488_479017129284666_3747464494341311412_n.jpg"  alt="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts and quotes or shayari in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader" title="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts and quotes or shayari in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader"  class=""/></a></li><li class=""><a href="//instagram.com/p/Boe94BABxLz/" target="_blank"  class=""><img src="//instagram.fblr1-4.fna.fbcdn.net/vp/f3177aa185e8a78c76b9506c8edc1905/5C3EACF6/t51.2885-15/e35/s150x150/42365150_1612142978952390_2220749720971953924_n.jpg"  alt="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader" title="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar.
+
+Follow.us 🙏 👉 @wahwahyar 👍. #wahwahyar #hindithoughts #qoutes #hindivichar #goodvichar #hindishayari #hindiquotes #hindilover #hindimovies #hindipoems #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #inpirationalthoughts #motivationalquotes #shayari #shayaries #shayarilover #writer #poetry #reader"  class=""/></a></li><li class=""><a href="//instagram.com/p/BoeSAFLhFBK/" target="_blank"  class=""><img src="//instagram.fblr1-4.fna.fbcdn.net/vp/e5dfdc408392ef0a24b92066a4350c47/5C48B031/t51.2885-15/e35/s150x150/41310252_2074926185902800_8255442983647073053_n.jpg"  alt="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar, so Follow.us👉👉 @wahwahyar.
+
+#wahwahyar #hindithoughts #hindishayari #hindiquotes #hindilover #hindimemes #hindimovies #hindimovie #hindipoems #hindipoem #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #hindithought #hindimusic #musically #tiktok #hindistan #hindilove #peotry #shayari" title="(वाह वाह यार) Get more #inspirational #motivational and #positive #thoughts in #hindi on Wah Wah Yar, so Follow.us👉👉 @wahwahyar.
+
+#wahwahyar #hindithoughts #hindishayari #hindiquotes #hindilover #hindimemes #hindimovies #hindimovie #hindipoems #hindipoem #hindipoetry #hindipoet #hindishayri #hindiinspiration #hindiquote #motivationalthoughts #inpirationalquotes #hindithought #hindimusic #musically #tiktok #hindistan #hindilove #peotry #shayari"  class=""/></a></li></ul>		</section>
+		
+				
+		<div class="bg-wrap">
+
+				
+			
+			<section class="upper-footer">
+			
+				<div class="wrap">
+										
+					<ul class="widgets ts-row cf">
+						
+		<li id="bunyad-widget-about-5" class="widget column col-4 widget-about">		
+					
+							
+				<div class="author-image">
+					<img src="https://cheerup.theme-sphere.com/magazine/wp-content/uploads/sites/7/2017/03/default-footer-2.png" alt="About Me" />
+				</div>
+				
+						
+			<div class="text about-text"><p>Insecurity is a waste of time. When I was young, I lived like an old woman, and when I got old, I had to live like young person. Lorem ipsum dolor sit amet, consec adipiscinglit. Aenean commodo.</p>
+</div>
+			
+						
+			
+						<div class="social-icons">
+				
+									<a href="https://www.facebook.com/envato/" class="social-btn" target="_blank"><i class="fa fa-facebook"></i>
+						<span class="visuallyhidden">Facebook</span></a>
+				
+									<a href="https://twitter.com/envato" class="social-btn" target="_blank"><i class="fa fa-twitter"></i>
+						<span class="visuallyhidden">Twitter</span></a>
+				
+									<a href="https://plus.google.com/+envato" class="social-btn" target="_blank"><i class="fa fa-google-plus"></i>
+						<span class="visuallyhidden">Google Plus</span></a>
+				
+									<a href="https://www.instagram.com/envato/" class="social-btn" target="_blank"><i class="fa fa-instagram"></i>
+						<span class="visuallyhidden">Instagram</span></a>
+				
+									<a href="https://www.pinterest.com/envato/" class="social-btn" target="_blank"><i class="fa fa-pinterest-p"></i>
+						<span class="visuallyhidden">Pinterest</span></a>
+				
+								
+			</div>
+						
+			
+						
+			<div class="text about-text below">
+				<p>Copyright © 2016 ThemeSphere. All rights reserved. Designed by <a href="http://theme-sphere.com">ThemeSphere</a>.</p>
+			</div>
+			
+					
+		</li>		
+		
+		<li id="bunyad-posts-widget-9" class="widget column col-4 widget-posts">		
+							
+				<h5 class="widget-title">Latest Posts</h5>				
+						
+			<ul class="posts cf meta-below">
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2018/07/08/hello-world/" class="image-link">
+											</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2018/07/08/hello-world/" class="post-title" title="Hello world!">Hello world!</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2018/07/08/hello-world/" class="date-link"><time class="post-date" datetime="2018-07-08T12:59:20+00:00">July 8, 2018</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="image-link">
+						<img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/08/15-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="3 Outfits That Will Amaze You on Coming Holiday" srcset="https://wahwahyar.com/wp-content/uploads/2016/08/15-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/08/15-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/08/15-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/08/15-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/08/15-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/08/15-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/08/15-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />					</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="post-title" title="3 Outfits That Will Amaze You on Coming Holiday">3 Outfits That Will Amaze You on Coming Holiday</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/08/14/my-loving-partner/" class="date-link"><time class="post-date" datetime="2016-08-14T16:16:50+00:00">August 14, 2016</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="image-link">
+						<img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/8-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Small Business Owners Are Full of Passion And Smiles" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/8-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/8-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/8-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/8-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/8-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/8-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/8-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />					</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="post-title" title="Small Business Owners Are Full of Passion And Smiles">Small Business Owners Are Full of Passion And Smiles</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/07/15/how-i-met-derpina/" class="date-link"><time class="post-date" datetime="2016-07-15T02:37:36+00:00">July 15, 2016</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						</ul>
+		
+		</li>		
+		
+		<li id="bunyad-posts-widget-10" class="widget column col-4 widget-posts">		
+							
+				<h5 class="widget-title">Popular Posts</h5>				
+						
+			<ul class="posts cf meta-below">
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/" class="image-link">
+						<img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2017/03/22-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Vast Farm Lands Still Rule Most of The Rural Countryside" srcset="https://wahwahyar.com/wp-content/uploads/2017/03/22-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2017/03/22-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2017/03/22-768x511.jpg 768w, https://wahwahyar.com/wp-content/uploads/2017/03/22-1024x681.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2017/03/22-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2017/03/22-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2017/03/22-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />					</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/" class="post-title" title="Vast Farm Lands Still Rule Most of The Rural Countryside">Vast Farm Lands Still Rule Most of The Rural Countryside</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/15/and-i-like-onions-too/" class="date-link"><time class="post-date" datetime="2016-05-15T02:24:46+00:00">May 15, 2016</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2016/05/14/smarter-than-my-phone/" class="image-link">
+						<img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/5-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="5 Best Drones For Photography And  The Thrill of Flying" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/5-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/5-300x200.jpg 300w, https://wahwahyar.com/wp-content/uploads/2016/05/5-768x512.jpg 768w, https://wahwahyar.com/wp-content/uploads/2016/05/5-1024x683.jpg 1024w, https://wahwahyar.com/wp-content/uploads/2016/05/5-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/5-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/5-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />					</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2016/05/14/smarter-than-my-phone/" class="post-title" title="5 Best Drones For Photography And  The Thrill of Flying">5 Best Drones For Photography And  The Thrill of Flying</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/05/14/smarter-than-my-phone/" class="date-link"><time class="post-date" datetime="2016-05-14T13:49:46+00:00">May 14, 2016</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						
+								
+				<li class="post cf">
+				
+					<a href="http://wahwahyar.com/2016/03/14/build-your-own-laptop-screen-with-recycled-parts/" class="image-link">
+						<img width="110" height="73" src="https://wahwahyar.com/wp-content/uploads/2016/05/2-110x73.jpg" class="attachment-cheerup-thumb size-cheerup-thumb wp-post-image" alt="" title="Build Your Own Laptop Screen With  Recycled Parts" srcset="https://wahwahyar.com/wp-content/uploads/2016/05/2-110x73.jpg 110w, https://wahwahyar.com/wp-content/uploads/2016/05/2-270x180.jpg 270w, https://wahwahyar.com/wp-content/uploads/2016/05/2-770x515.jpg 770w, https://wahwahyar.com/wp-content/uploads/2016/05/2-370x247.jpg 370w" sizes="(max-width: 110px) 100vw, 110px" />					</a>
+					
+					<div class="content">
+						
+											
+					
+						<a href="http://wahwahyar.com/2016/03/14/build-your-own-laptop-screen-with-recycled-parts/" class="post-title" title="Build Your Own Laptop Screen With  Recycled Parts">Build Your Own Laptop Screen With  Recycled Parts</a>
+						
+							
+														<div class="post-meta post-meta-a">
+		
+					
+					<a href="http://wahwahyar.com/2016/03/14/build-your-own-laptop-screen-with-recycled-parts/" class="date-link"><time class="post-date" datetime="2016-03-14T13:48:26+00:00">March 14, 2016</time></a>
+				
+		
+	</div>												
+							
+												
+					</div>
+				
+				</li>
+				
+								
+						</ul>
+		
+		</li>		
+							</ul>
+					
+									</div>
+			</section>
+			
+						
+	
+						
+			<section class="lower-footer cf">
+				<div class="wrap">
+				
+					<div class="bottom cf">
+						<p class="copyright">Powered by WordPress and lots of coffee.						</p>
+
+						
+													<div class="to-top">
+								<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i> Top</a>
+							</div>
+												
+					</div>
+				</div>
+			</section>
+			
+					
+		</div>
+		
+	</footer>	
+	
+</div> <!-- .main-wrap -->
+
+
+
+<div class="mobile-menu-container off-canvas">
+
+	<a href="#" class="close"><i class="fa fa-times"></i></a>
+	
+	<div class="logo">
+							
+		<img class="mobile-logo" src="https://wahwahyar.com/wp-content/uploads/2017/03/5.jpg" width="960" height="640" 
+			alt="Wah Wah Yar &#8211;" />
+
+			</div>
+	
+		
+		<ul class="mobile-menu"></ul>
+
+	</div>
+
+		
+		<a href="http://www.pinterest.com/pin/create/bookmarklet/?url=%url%&media=%media%&description=%desc%" class="pinit-btn" target="_blank" title="Pin It" data-show-on="single" data-heading="">
+			<i class="fa fa-pinterest-p"></i>
+			
+						
+		</a>
+		<script type="text/javascript" src="http://wahwahyar.com/wp-content/cache/minify/69faf.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/wahwahyar.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://wahwahyar.com/wp-content/cache/minify/bfd3a.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Bunyad = {"custom_ajax_url":"\/"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="http://wahwahyar.com/wp-content/cache/minify/3c3a1.js"></script>
+
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching using disk
+
+Served from: wahwahyar.com @ 2018-10-07 05:25:45 by W3 Total Cache
+-->

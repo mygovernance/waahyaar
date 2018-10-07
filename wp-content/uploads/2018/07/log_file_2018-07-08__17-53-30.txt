@@ -1,0 +1,142 @@
+
+---Importing content---
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Heels
+[WARNING] Failed to import product_tag Jeans
+[WARNING] Failed to import product_tag knitted
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import product_shipping_class My Shipping
+[WARNING] Failed to import product_tag outfit
+[WARNING] Failed to import product_tag Pants
+[WARNING] Failed to import product_cat Pants &amp; Jeans
+[WARNING] Failed to import product_tag Sandals
+[WARNING] Failed to import product_tag Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Wallets
+[WARNING] Could not find the author for comment #140
+[WARNING] Could not find the author for comment #141
+[WARNING] Could not find the author for comment #142
+[WARNING] Could not find the author for comment #143
+[WARNING] Could not find the author for comment #144
+[WARNING] Could not find the author for comment #145
+[WARNING] Could not find the author for comment #146
+[WARNING] Could not find the author for comment #147
+[WARNING] Could not find the author for comment #148
+[WARNING] Could not find the author for comment #149
+[WARNING] Could not find the author for comment #150
+[WARNING] Could not find the author for comment #151
+[WARNING] Could not find the author for comment #152
+[WARNING] Could not find the author for comment #153
+[WARNING] Could not find the author for comment #154
+[WARNING] Could not find the author for comment #155
+[WARNING] Could not find the author for comment #156
+[WARNING] Could not find the author for comment #157
+[WARNING] Could not find the author for comment #158
+[WARNING] Could not find the author for comment #159
+[WARNING] Could not find the author for comment #160
+[WARNING] Could not find the author for comment #161
+[WARNING] Could not find the author for comment #162
+[WARNING] Could not find the author for comment #163
+[WARNING] Could not find the author for comment #164
+[WARNING] Could not find the author for comment #165
+[WARNING] Could not find the author for comment #166
+[WARNING] Could not find the author for comment #167
+[WARNING] Could not find the author for comment #168
+[WARNING] Could not find the author for comment #169
+[WARNING] Could not find the author for comment #170
+[WARNING] Could not find the author for comment #171
+[WARNING] Could not find the author for comment #172
+[WARNING] Could not find the author for comment #173
+[WARNING] Could not find the author for comment #174
+[WARNING] Could not find the author for comment #175
+[WARNING] Could not find the author for comment #176
+[WARNING] Could not find the author for comment #177
+[WARNING] Could not find the author for comment #178
+[WARNING] Could not find the author for comment #179
+[WARNING] Could not find the author for comment #180
+[WARNING] Could not find the author for comment #181
+[WARNING] Could not find the author for comment #182
+[WARNING] Could not find the author for comment #183
+[WARNING] Could not find the author for comment #184
+[WARNING] Could not find the author for comment #185
+[WARNING] Could not find the author for comment #186
+[WARNING] Could not find the author for comment #187
+[WARNING] Could not find the author for comment #188
+[WARNING] Could not find the author for comment #189
+[WARNING] Could not find the author for comment #190
+[WARNING] Could not find the author for comment #191
+[WARNING] Could not find the author for comment #192
+[WARNING] Could not find the author for comment #193
+[WARNING] Could not find the author for comment #194
+[WARNING] Could not find the author for comment #195
+[WARNING] Could not find the author for comment #196
+[WARNING] Could not find the author for comment #197
+[WARNING] Could not find the author for comment #198
+[WARNING] Could not find the author for comment #199
+[WARNING] Could not find the author for comment #200
+[WARNING] Could not find the author for comment #201
+[WARNING] Could not find the author for comment #202
+[WARNING] Could not find the author for comment #203
+[WARNING] Could not find the author for comment #204
+[WARNING] Could not find the author for comment #205
+[WARNING] Could not find the author for comment #206
+[WARNING] Could not find the author for comment #207
+[WARNING] Could not find the author for comment #208
+[WARNING] Could not find the author for comment #209
+[WARNING] Could not find the author for comment #210
+[WARNING] Could not find the author for comment #211
+[WARNING] Could not find the author for comment #212
+[WARNING] Could not find the author for comment #213
+[WARNING] Could not find the author for comment #214
+[WARNING] Could not find the author for comment #215
+[WARNING] Could not find the author for comment #216
+[WARNING] Could not find the author for comment #217
+[WARNING] Could not find the author for comment #218
+[WARNING] Could not find the author for comment #219
+[WARNING] Could not find the author for comment #220
+[WARNING] Could not find the author for comment #221
+[WARNING] Could not find the author for comment #222
+[WARNING] Could not find the author for comment #223
+
+Max execution time after content import = 300
+
+---Importing widgets---
+cs-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Instagram - No Title - Widget already exists
+
+Main Sidebar : 
+
+Cheerup - Posts Slider - No Title - Imported
+Cheerup - About Widget - About - Imported
+CheerUp - Social Icons - Connect &amp; Follow - Imported
+Cheerup - Subscribe (MailChimp) - Newsletter - Imported
+Instagram - Instagram - Imported
+Cheerup - Posts List - Latest Posts - Imported
+Categories - Categories - Imported
+
+Split Sidebar - Top : 
+
+Cheerup - About Widget - About Shane Doe - Widget already exists
+Cheerup - Call To Action Boxes - No Title - Widget already exists
+
+Footer Widgets : 
+
+Cheerup - About Widget - About - Imported
+Cheerup - Twitter - Recent Tweets - Imported
+Cheerup - Posts List - Popular Posts - Imported
+
+Footer Instagram : 
+
+Instagram - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

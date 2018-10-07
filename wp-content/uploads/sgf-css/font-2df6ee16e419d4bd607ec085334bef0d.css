@@ -1,0 +1,56 @@
+@font-face {
+	font-family: "Lato";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Lato Regular'), local('Lato-Regular'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6uyw4BMUTPHjx4wWA.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Lato";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Lato Italic'), local('Lato-Italic'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u8w4BMUTPHjxsAXC-s.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Lato";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Lato Bold'), local('Lato-Bold'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u9w4BMUTPHh6UVSwiPHw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Lato";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Lato Black'), local('Lato-Black'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u9w4BMUTPHh50XSwiPGQ3q5d0.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/S6u9w4BMUTPHh50XSwiPHw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem8YaGs126MiZpBA-UFVZ0d.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 600;
+	font-style: normal;
+	src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UNirkOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN7rgOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 800;
+	font-style: normal;
+	src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN8rsOUuhpKKSTjw.woff2) format('woff2'), url(//wahwahyar.com/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN8rsOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

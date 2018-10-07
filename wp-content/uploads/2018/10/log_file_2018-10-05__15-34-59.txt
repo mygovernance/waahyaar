@@ -1,0 +1,206 @@
+
+---Importing content---
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Heels
+[WARNING] Failed to import product_tag Jeans
+[WARNING] Failed to import product_tag knitted
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import product_shipping_class My Shipping
+[WARNING] Failed to import product_tag outfit
+[WARNING] Failed to import product_tag Pants
+[WARNING] Failed to import product_cat Pants &amp; Jeans
+[WARNING] Failed to import product_tag Sandals
+[WARNING] Failed to import product_tag Shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Wallets
+[WARNING] Could not find the author for comment #324
+[WARNING] Could not find the author for comment #325
+[WARNING] Could not find the author for comment #326
+[WARNING] Could not find the author for comment #327
+[WARNING] Could not find the author for comment #328
+[WARNING] Could not find the author for comment #329
+[WARNING] Could not find the author for comment #330
+[WARNING] Could not find the author for comment #331
+[WARNING] Could not find the author for comment #332
+[WARNING] Could not find the author for comment #333
+[WARNING] Could not find the author for comment #334
+[WARNING] Could not find the author for comment #335
+[WARNING] Could not find the author for comment #336
+[WARNING] Could not find the author for comment #337
+[WARNING] Could not find the author for comment #338
+[WARNING] Could not find the author for comment #339
+[WARNING] Could not find the author for comment #340
+[WARNING] Could not find the author for comment #341
+[WARNING] Could not find the author for comment #342
+[WARNING] Could not find the author for comment #343
+[WARNING] Could not find the author for comment #344
+[WARNING] Could not find the author for comment #345
+[WARNING] Could not find the author for comment #346
+[WARNING] Could not find the author for comment #347
+[WARNING] Could not find the author for comment #348
+[WARNING] Could not find the author for comment #349
+[WARNING] Could not find the author for comment #350
+[WARNING] Could not find the author for comment #351
+[WARNING] Could not find the author for comment #352
+[WARNING] Could not find the author for comment #353
+[WARNING] Could not find the author for comment #354
+[WARNING] Could not find the author for comment #355
+[WARNING] Could not find the author for comment #356
+[WARNING] Could not find the author for comment #357
+[WARNING] Could not find the author for comment #358
+[WARNING] Could not find the author for comment #359
+[WARNING] Could not find the author for comment #360
+[WARNING] Could not find the author for comment #361
+[WARNING] Could not find the author for comment #362
+[WARNING] Could not find the author for comment #363
+[WARNING] Could not find the author for comment #364
+[WARNING] Could not find the author for comment #365
+[WARNING] Could not find the author for comment #366
+[WARNING] Could not find the author for comment #367
+[WARNING] Could not find the author for comment #368
+[WARNING] Could not find the author for comment #369
+[WARNING] Could not find the author for comment #370
+[WARNING] Could not find the author for comment #371
+[WARNING] Could not find the author for comment #372
+[WARNING] Could not find the author for comment #373
+[WARNING] Could not find the author for comment #374
+[WARNING] Could not find the author for comment #375
+[WARNING] Could not find the author for comment #376
+[WARNING] Could not find the author for comment #377
+[WARNING] Could not find the author for comment #378
+[WARNING] Could not find the author for comment #379
+[WARNING] Could not find the author for comment #380
+[WARNING] Could not find the author for comment #381
+[WARNING] Could not find the author for comment #382
+[WARNING] Could not find the author for comment #383
+[WARNING] Could not find the author for comment #384
+[WARNING] Could not find the author for comment #385
+[WARNING] Could not find the author for comment #386
+[WARNING] Could not find the author for comment #387
+[WARNING] Could not find the author for comment #388
+[WARNING] Could not find the author for comment #389
+[WARNING] Could not find the author for comment #390
+[WARNING] Could not find the author for comment #391
+[WARNING] Could not find the author for comment #392
+[WARNING] Could not find the author for comment #393
+[WARNING] Could not find the author for comment #394
+[WARNING] Could not find the author for comment #395
+[WARNING] Could not find the author for comment #396
+[WARNING] Could not find the author for comment #397
+[WARNING] Could not find the author for comment #398
+[WARNING] Could not find the author for comment #399
+[WARNING] Could not find the author for comment #400
+[WARNING] Could not find the author for comment #401
+[WARNING] Could not find the author for comment #402
+[WARNING] Could not find the author for comment #403
+[WARNING] Could not find the author for comment #404
+[WARNING] Could not find the author for comment #405
+[WARNING] Could not find the author for comment #406
+[WARNING] Could not find the author for comment #407
+[WARNING] Could not find the author for comment #408
+[WARNING] Could not find the author for comment #409
+[WARNING] Could not find the author for comment #410
+[WARNING] Could not find the author for comment #411
+[WARNING] Could not find the author for comment #412
+[WARNING] Could not find the author for comment #413
+[WARNING] Could not find the author for comment #414
+[WARNING] Could not find the author for comment #415
+[WARNING] Could not find the author for comment #416
+[WARNING] Could not find the author for comment #417
+[WARNING] Could not find the author for comment #418
+[WARNING] Could not find the author for comment #419
+[WARNING] Could not find the author for comment #420
+[WARNING] Could not find the author for comment #421
+[WARNING] Could not find the author for comment #422
+[WARNING] Could not find the author for comment #423
+[WARNING] Could not find the author for comment #424
+[WARNING] Could not find the author for comment #425
+[WARNING] Could not find the author for comment #426
+[WARNING] Could not find the author for comment #427
+[WARNING] Could not find the author for comment #428
+[WARNING] Could not find the author for comment #429
+[WARNING] Could not find the author for comment #430
+[WARNING] Could not find the author for comment #431
+[WARNING] Could not find the author for comment #432
+[WARNING] Could not find the author for comment #433
+[WARNING] Could not find the author for comment #434
+[WARNING] Could not find the author for comment #435
+[WARNING] Could not find the author for comment #436
+[WARNING] Could not find the author for comment #437
+[WARNING] Could not find the author for comment #438
+[WARNING] Could not find the author for comment #439
+[WARNING] Could not find the author for comment #440
+[WARNING] Could not find the author for comment #441
+[WARNING] Could not find the author for comment #442
+[WARNING] Could not find the author for comment #443
+[WARNING] Could not find the author for comment #444
+[WARNING] Could not find the author for comment #445
+[WARNING] Could not find the author for comment #446
+[WARNING] Could not find the author for comment #447
+[WARNING] Could not find the author for comment #448
+[WARNING] Could not find the author for comment #449
+[WARNING] Could not find the author for comment #450
+[WARNING] Could not find the author for comment #451
+[WARNING] Could not find the author for comment #452
+[WARNING] Could not find the author for comment #453
+[WARNING] Could not find the author for comment #454
+[WARNING] Could not find the author for comment #455
+[WARNING] Could not find the author for comment #456
+[WARNING] Could not find the author for comment #457
+[WARNING] Could not find the author for comment #458
+[WARNING] Could not find the author for comment #459
+[WARNING] Could not find the author for comment #460
+[WARNING] Could not find the author for comment #461
+
+Max execution time after content import = 300
+
+---Importing widgets---
+cs-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cheerup - Subscribe (MailChimp) - Your daily updates - Widget already exists
+Cheerup - Posts List - Latest - Widget already exists
+Cheerup - Advertisement - No Title - Widget already exists
+CheerUp - Social Follow &amp; Counters - Follow us - Widget already exists
+Categories - Categories - Widget already exists
+
+cs-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cheerup - Posts List - Latest - Widget already exists
+Cheerup - Subscribe (MailChimp) - Your daily updates - Widget already exists
+CheerUp - Social Follow &amp; Counters - Follow us - Widget already exists
+Cheerup - Advertisement - No Title - Widget already exists
+Categories - Categories - Widget already exists
+
+cs-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Instagram - No Title - Widget already exists
+
+Main Sidebar : 
+
+CheerUp - Social Follow &amp; Counters - Follow us - Widget already exists
+Cheerup - Posts List - Popular - Imported
+Cheerup - Subscribe (MailChimp) - Your daily updates - Widget already exists
+Cheerup - Advertisement - No Title - Widget already exists
+Categories - Categories - Imported
+
+Split Sidebar - Top : 
+
+Cheerup - About Widget - About Shane Doe - Widget already exists
+Cheerup - Call To Action Boxes - No Title - Widget already exists
+
+Footer Widgets : 
+
+Cheerup - About Widget - No Title - Imported
+Cheerup - Posts List - Latest Posts - Imported
+Cheerup - Posts List - Popular Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
